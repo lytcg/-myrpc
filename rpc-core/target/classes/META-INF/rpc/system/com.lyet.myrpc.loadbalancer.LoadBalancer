@@ -1,0 +1,3 @@
+roundRobin=com.lyet.myrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.lyet.myrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.lyet.myrpc.loadbalancer.ConsistentHashLoadBalancer

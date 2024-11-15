@@ -1,0 +1,4 @@
+failBack=com.lyet.myrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.lyet.myrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.lyet.myrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.lyet.myrpc.fault.tolerant.FailSafeTolerantStrategy

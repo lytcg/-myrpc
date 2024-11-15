@@ -1,0 +1,4 @@
+jdk=com.lyet.myrpc.serializer.JdkSerializer
+hessian=com.lyet.myrpc.serializer.HessianSerializer
+json=com.lyet.myrpc.serializer.JsonSerializer
+kryo=com.lyet.myrpc.serializer.KryoSerializer
